@@ -7,12 +7,7 @@
 ### 1. By using scrapping libraries (Scrapy / BeautifulSoup), try to collect text data from several Arabic web site concerning one topic then prepare your Dataset as Below:
 
 
-| Text                                                                  | Score         |
-|-----------------------------------------------------------------------|---------------|
-| Accuracy                                                              | 0.9911        |
-| F1 Score                                                              | 0.9887        |
-| Loss                                                                  | 0.0145        |
-| Training Time                                                         | 15.08s        |
+
 
 
 
